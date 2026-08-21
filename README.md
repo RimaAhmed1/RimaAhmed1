@@ -203,6 +203,26 @@ I'm a **Software Applications Development graduate** and **Full Stack Developer*
 </p>
 
 ---
+## 🐍 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/RimaAhmed1/RimaAhmed1/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/RimaAhmed1/RimaAhmed1/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Rima Al-Tarshi GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/RimaAhmed1/RimaAhmed1/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
+---
 
 <!-- ===================== CURRENT FOCUS ===================== -->
 
