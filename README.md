@@ -1,4 +1,8 @@
-<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img src="./github-banner.png" alt="Rima Al-Tarshi - Full Stack Developer" width="100%" />
+</p>
+
+<br>
 
 <h1 align="center">Hi 👋, I'm Rima Al-Tarshi</h1>
 
