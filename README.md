@@ -194,18 +194,24 @@ I'm a **Software Applications Development graduate** and **Full Stack Developer*
 
 <p align="center">
   <img
+    src="https://github-readme-stats.vercel.app/api?username=RimaAhmed1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=RimaAhmed1&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"
+    alt="Rima's GitHub stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RimaAhmed1&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Rima's top languages"
   />
 </p>
 
 <p align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RimaAhmed1&layout=compact&theme=midnight-purple&hide_border=true"
+    src="https://streak-stats.demolab.com?user=RimaAhmed1&theme=tokyonight&hide_border=true"
+    alt="Rima's GitHub streak"
   />
 </p>
-
 ---
 ## 🐍 Contribution Activity
 
