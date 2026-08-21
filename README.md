@@ -188,31 +188,6 @@ I'm a **Software Applications Development graduate** and **Full Stack Developer*
 
 ---
 
-<!-- ===================== GITHUB ANALYTICS ===================== -->
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=RimaAhmed1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    height="170"
-    alt="Rima's GitHub stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RimaAhmed1&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Rima's top languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=RimaAhmed1&theme=tokyonight&hide_border=true"
-    alt="Rima's GitHub streak"
-  />
-</p>
----
 ## 🐍 Contribution Activity
 
 <p align="center">
@@ -231,7 +206,7 @@ I'm a **Software Applications Development graduate** and **Full Stack Developer*
     />
   </picture>
 </p>
----
+
 
 <!-- ===================== CURRENT FOCUS ===================== -->
 
